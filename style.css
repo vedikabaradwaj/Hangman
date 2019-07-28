@@ -1,0 +1,27 @@
+body {
+    background-color: #b0faf6;
+    text-align: center;
+}
+h1 {font-family: 'Rock Salt';
+font-size: 40px;
+}
+h3 {
+font-family: 'Roboto';
+color: darkslategrey;
+}
+
+button {
+    font-family: 'Roboto';
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+input {
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+#copyright_text {
+    position: absolute;bottom: 0
+}
